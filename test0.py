@@ -1,1 +1,6 @@
-print(100+200+300)
+#print absolute value of an intefer:
+a = 100
+if a >= 0:
+	print(a)
+else:
+	print(-a)
